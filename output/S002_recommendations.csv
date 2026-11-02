@@ -1,0 +1,4 @@
+Student_ID,Recommendation_Rank,Resource_Name,Subject,Topic,Resource_Type,Difficulty_Level,Match_Score
+S002,1,Database Normalization,DBMS,Normalization,Notes,Intermediate,100.0
+S002,2,Normalization Practice,DBMS,Normalization,Practice,Intermediate,86.69
+S002,3,Statistics Fundamentals,Mathematics,Statistics,Notes,Intermediate,54.72

@@ -1,0 +1,101 @@
+Student_ID,Previous_Score,Study_Hours,Interest,Learning_Preference,Completed_Topics,Weak_Topic,Difficulty_Level
+S001,62,2.5,DBMS,Video,"Variables,Loops",Functions,Beginner
+S002,78,3.5,DBMS,Notes,"SQL,ER Diagram",Normalization,Intermediate
+S003,45,1.5,Java,Practice,"Variables,Classes",OOP,Beginner
+S004,86,4,Computer Networks,Video,"OSI Model,TCP/IP",Routing,Advanced
+S005,67,2,Data Structures,Practice,"Arrays,Stack",Linked Lists,Intermediate
+S006,55,2.5,HTML/CSS,Visual,"HTML Forms,Tables",CSS Layout,Beginner
+S007,72,3,Python,Practice,"Variables,Lists",Functions,Intermediate
+S008,91,4.5,Mathematics,Notes,"Matrices,Statistics",Probability,Advanced
+S009,49,1.5,DBMS,Video,SQL,Normalization,Beginner
+S010,74,3,Java,Notes,"Variables,Classes",Inheritance,Intermediate
+S011,63,2,Python,Visual,"Variables,Loops",Lists,Intermediate
+S012,82,3.5,Data Structures,Practice,"Arrays,Linked Lists",Trees,Advanced
+S013,58,2,Computer Networks,Notes,OSI Model,TCP/IP,Beginner
+S014,88,4,HTML/CSS,Visual,"HTML Forms,CSS Basics",CSS Layout,Advanced
+S015,52,1.5,Mathematics,Practice,Matrices,Probability,Beginner
+S016,49,1.5,HTML/CSS,Practice,"Tables,Responsive Design",HTML Forms,Beginner
+S017,48,4,HTML/CSS,Video,"Responsive Design,CSS Basics",HTML Forms,Beginner
+S018,47,2,Python,Notes,"File Handling,Functions",Dictionaries,Beginner
+S019,87,4,DBMS,Visual,"Normalization,Transactions",Indexing,Advanced
+S020,93,4.5,Java,Video,"Classes,Exception Handling",Inheritance,Advanced
+S021,51,2,Java,Practice,"OOP,Interfaces",Inheritance,Intermediate
+S022,64,4.5,Python,Practice,"File Handling,Loops",Functions,Intermediate
+S023,71,3.5,HTML/CSS,Video,"CSS Basics,HTML Forms",Responsive Design,Advanced
+S024,82,3.5,Java,Practice,"Interfaces,Classes",Exception Handling,Advanced
+S025,44,4,Python,Notes,"Loops,Functions",Lists,Beginner
+S026,48,3,Mathematics,Practice,"Calculus,Probability",Matrices,Beginner
+S027,64,2,Java,Practice,"OOP,Classes",Interfaces,Intermediate
+S028,57,2,HTML/CSS,Visual,"CSS Basics,CSS Layout",Responsive Design,Intermediate
+S029,77,2,HTML/CSS,Practice,"HTML Forms,Tables",CSS Layout,Advanced
+S030,62,3,Mathematics,Practice,"Matrices,Statistics",Set Theory,Intermediate
+S031,62,2,HTML/CSS,Visual,"CSS Basics,Responsive Design",HTML Forms,Intermediate
+S032,50,2,Java,Practice,"Interfaces,Exception Handling",Inheritance,Intermediate
+S033,65,2,Computer Networks,Notes,"IP Addressing,Network Security",OSI Model,Intermediate
+S034,45,4.5,Mathematics,Video,"Statistics,Set Theory",Calculus,Beginner
+S035,80,1.5,Computer Networks,Visual,"Network Security,IP Addressing",Routing,Advanced
+S036,77,4.5,Java,Video,"OOP,Inheritance",Interfaces,Advanced
+S037,49,2.5,Java,Visual,"Classes,Exception Handling",OOP,Beginner
+S038,88,2.5,HTML/CSS,Notes,"Responsive Design,HTML Forms",CSS Basics,Advanced
+S039,82,3.5,Java,Notes,"Classes,Inheritance",OOP,Advanced
+S040,91,3.5,Data Structures,Video,"Graphs,Linked Lists",Stack,Advanced
+S041,49,2.5,Python,Practice,"Lists,Functions",Loops,Beginner
+S042,47,1.5,Data Structures,Visual,"Arrays,Stack",Linked Lists,Beginner
+S043,72,3.5,HTML/CSS,Notes,"CSS Layout,CSS Basics",HTML Forms,Advanced
+S044,90,4,Data Structures,Notes,"Linked Lists,Trees",Graphs,Advanced
+S045,65,3,HTML/CSS,Visual,"HTML Forms,Tables",CSS Layout,Intermediate
+S046,63,1.5,Python,Notes,"File Handling,Lists",Functions,Intermediate
+S047,87,4,Python,Video,"Lists,Functions",Loops,Advanced
+S048,63,1.5,Mathematics,Notes,"Probability,Calculus",Matrices,Intermediate
+S049,50,4,Data Structures,Visual,"Stack,Trees",Linked Lists,Intermediate
+S050,48,1.5,DBMS,Visual,"ER Diagram,Transactions",Normalization,Beginner
+S051,88,1.5,Computer Networks,Video,"OSI Model,Network Security",IP Addressing,Advanced
+S052,93,4.5,Java,Video,"Classes,Interfaces",OOP,Advanced
+S053,70,2,Data Structures,Visual,"Stack,Linked Lists",Trees,Advanced
+S054,46,3,DBMS,Video,"SQL,Indexing",Normalization,Beginner
+S055,57,2,Mathematics,Visual,"Calculus,Set Theory",Matrices,Intermediate
+S056,67,1.5,Mathematics,Notes,"Calculus,Matrices",Probability,Intermediate
+S057,92,4.5,Java,Visual,"Inheritance,Exception Handling",Interfaces,Advanced
+S058,92,3.5,HTML/CSS,Visual,"Tables,Responsive Design",CSS Layout,Advanced
+S059,45,3.5,DBMS,Video,"ER Diagram,SQL",Normalization,Beginner
+S060,72,3.5,Data Structures,Notes,"Arrays,Graphs",Stack,Advanced
+S061,80,1.5,Python,Notes,"Dictionaries,Functions",File Handling,Advanced
+S062,79,3.5,DBMS,Video,"Indexing,SQL",ER Diagram,Advanced
+S063,79,3.5,HTML/CSS,Practice,"CSS Layout,Tables",Responsive Design,Advanced
+S064,62,2,HTML/CSS,Practice,"CSS Basics,Tables",Responsive Design,Intermediate
+S065,61,3,HTML/CSS,Practice,"HTML Forms,Responsive Design",CSS Layout,Intermediate
+S066,78,1.5,Data Structures,Video,"Graphs,Stack",Trees,Advanced
+S067,50,2.5,Java,Video,"Classes,Inheritance",Exception Handling,Intermediate
+S068,70,4.5,DBMS,Practice,"Indexing,SQL",Transactions,Advanced
+S069,77,2.5,Mathematics,Video,"Statistics,Probability",Matrices,Advanced
+S070,89,3.5,Python,Notes,"Loops,File Handling",Dictionaries,Advanced
+S071,87,2.5,DBMS,Notes,"ER Diagram,Transactions",Normalization,Advanced
+S072,45,1.5,Mathematics,Visual,"Probability,Matrices",Statistics,Beginner
+S073,91,2,Java,Practice,"Classes,Exception Handling",Interfaces,Advanced
+S074,69,3.5,HTML/CSS,Video,"HTML Forms,Responsive Design",CSS Basics,Intermediate
+S075,76,1.5,DBMS,Practice,"Indexing,Normalization",ER Diagram,Advanced
+S076,44,2.5,DBMS,Practice,"SQL,ER Diagram",Normalization,Beginner
+S077,57,4,HTML/CSS,Video,"CSS Layout,CSS Basics",Responsive Design,Intermediate
+S078,51,2,HTML/CSS,Notes,"Tables,CSS Basics",HTML Forms,Intermediate
+S079,89,2.5,DBMS,Visual,"Normalization,ER Diagram",SQL,Advanced
+S080,86,1.5,Mathematics,Visual,"Matrices,Calculus",Statistics,Advanced
+S081,94,3,DBMS,Practice,"ER Diagram,Normalization",SQL,Advanced
+S082,84,2,Python,Visual,"Loops,File Handling",Functions,Advanced
+S083,59,2.5,Mathematics,Visual,"Set Theory,Probability",Matrices,Intermediate
+S084,58,2,Python,Practice,"Functions,File Handling",Dictionaries,Intermediate
+S085,64,4,Computer Networks,Practice,"Network Security,OSI Model",Routing,Intermediate
+S086,54,2.5,Data Structures,Video,"Trees,Arrays",Graphs,Intermediate
+S087,76,4,Mathematics,Notes,"Probability,Calculus",Matrices,Advanced
+S088,63,3.5,HTML/CSS,Practice,"HTML Forms,CSS Layout",Responsive Design,Intermediate
+S089,84,3,Java,Practice,"Exception Handling,Inheritance",Interfaces,Advanced
+S090,54,3,DBMS,Visual,"Normalization,ER Diagram",Transactions,Intermediate
+S091,42,2.5,Data Structures,Practice,"Stack,Trees",Graphs,Beginner
+S092,83,2.5,Data Structures,Visual,"Trees,Graphs",Linked Lists,Advanced
+S093,74,3,DBMS,Notes,"SQL,ER Diagram",Indexing,Advanced
+S094,82,3.5,HTML/CSS,Practice,"HTML Forms,Tables",Responsive Design,Advanced
+S095,56,4.5,Java,Notes,"Classes,OOP",Inheritance,Intermediate
+S096,72,3.5,DBMS,Video,"Transactions,Indexing",ER Diagram,Advanced
+S097,54,4,Data Structures,Visual,"Trees,Graphs",Arrays,Intermediate
+S098,83,4,DBMS,Video,"SQL,Transactions",Normalization,Advanced
+S099,93,4,DBMS,Visual,"SQL,Normalization",ER Diagram,Advanced
+S100,50,4.5,Computer Networks,Visual,"IP Addressing,Routing",TCP/IP,Intermediate

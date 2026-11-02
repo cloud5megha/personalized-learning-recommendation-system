@@ -1,0 +1,4 @@
+Student_ID,Recommendation_Rank,Resource_Name,Subject,Topic,Resource_Type,Difficulty_Level,Match_Score
+S045,1,CSS Layout Basics,HTML/CSS,CSS Layout,Video,Intermediate,100.0
+S045,2,CSS Layout Practice,HTML/CSS,CSS Layout,Practice,Intermediate,100.0
+S045,3,CSS Basics Tutorial,HTML/CSS,CSS Basics,Video,Beginner,95.71

@@ -1,0 +1,61 @@
+Resource_ID,Resource_Name,Subject,Topic,Resource_Type,Difficulty_Level,Learning_Style,Duration_Minutes
+R001,Python Functions Basics,Python,Functions,Video,Beginner,Visual,25
+R002,Python Functions Practice,Python,Functions,Practice,Intermediate,Practice,30
+R003,Python Lists Tutorial,Python,Lists,Notes,Beginner,Reading,20
+R004,Python Loops Explained,Python,Loops,Video,Beginner,Visual,25
+R005,Advanced Python Functions,Python,Functions,Notes,Advanced,Reading,35
+R006,SQL Basics,DBMS,SQL,Video,Beginner,Visual,25
+R007,Database Normalization,DBMS,Normalization,Notes,Intermediate,Reading,30
+R008,Normalization Practice,DBMS,Normalization,Practice,Intermediate,Practice,35
+R009,ER Diagram Guide,DBMS,ER Diagram,Video,Beginner,Visual,20
+R010,Java OOP Basics,Java,OOP,Video,Beginner,Visual,30
+R011,Java Classes and Objects,Java,Classes,Notes,Beginner,Reading,25
+R012,Java Inheritance,Java,Inheritance,Video,Intermediate,Visual,30
+R013,Java OOP Practice,Java,OOP,Practice,Intermediate,Practice,40
+R014,OSI Model Explained,Computer Networks,OSI Model,Video,Beginner,Visual,20
+R015,TCP/IP Fundamentals,Computer Networks,TCP/IP,Notes,Beginner,Reading,25
+R016,Computer Network Routing,Computer Networks,Routing,Video,Advanced,Visual,40
+R017,Routing Practice Problems,Computer Networks,Routing,Practice,Advanced,Practice,45
+R018,Arrays and Basics,Data Structures,Arrays,Video,Beginner,Visual,25
+R019,Stack Data Structure,Data Structures,Stack,Notes,Intermediate,Reading,30
+R020,Linked Lists Explained,Data Structures,Linked Lists,Video,Intermediate,Visual,30
+R021,Linked Lists Practice,Data Structures,Linked Lists,Practice,Intermediate,Practice,40
+R022,HTML Forms Tutorial,HTML/CSS,HTML Forms,Video,Beginner,Visual,20
+R023,HTML Tables Guide,HTML/CSS,Tables,Notes,Beginner,Reading,20
+R024,CSS Layout Basics,HTML/CSS,CSS Layout,Video,Intermediate,Visual,30
+R025,CSS Layout Practice,HTML/CSS,CSS Layout,Practice,Intermediate,Practice,35
+R026,Matrices Fundamentals,Mathematics,Matrices,Notes,Beginner,Reading,30
+R027,Probability Basics,Mathematics,Probability,Video,Beginner,Visual,25
+R028,Probability Practice,Mathematics,Probability,Practice,Intermediate,Practice,40
+R029,Statistics Fundamentals,Mathematics,Statistics,Notes,Intermediate,Reading,30
+R030,Advanced Probability,Mathematics,Probability,Video,Advanced,Visual,45
+R031,Python Dictionaries Guide,Python,Dictionaries,Notes,Beginner,Reading,25
+R032,Python Dictionaries Practice,Python,Dictionaries,Practice,Intermediate,Practice,35
+R033,Python File Handling,Python,File Handling,Video,Intermediate,Visual,30
+R034,Python File Handling Practice,Python,File Handling,Practice,Intermediate,Practice,40
+R035,Database Transactions,DBMS,Transactions,Video,Intermediate,Visual,30
+R036,Transaction Management Notes,DBMS,Transactions,Notes,Advanced,Reading,35
+R037,Database Indexing,DBMS,Indexing,Video,Intermediate,Visual,30
+R038,Indexing Practice,DBMS,Indexing,Practice,Advanced,Practice,40
+R039,Java Exception Handling,Java,Exception Handling,Video,Intermediate,Visual,30
+R040,Exception Handling Practice,Java,Exception Handling,Practice,Intermediate,Practice,40
+R041,Java Interfaces,Java,Interfaces,Notes,Intermediate,Reading,30
+R042,Interfaces Practice,Java,Interfaces,Practice,Advanced,Practice,40
+R043,Network Security Basics,Computer Networks,Network Security,Video,Intermediate,Visual,30
+R044,Network Security Practice,Computer Networks,Network Security,Practice,Advanced,Practice,40
+R045,IP Addressing Guide,Computer Networks,IP Addressing,Notes,Beginner,Reading,25
+R046,IP Addressing Practice,Computer Networks,IP Addressing,Practice,Intermediate,Practice,35
+R047,Tree Data Structure,Data Structures,Trees,Video,Intermediate,Visual,35
+R048,Trees Practice,Data Structures,Trees,Practice,Advanced,Practice,45
+R049,Graph Data Structure,Data Structures,Graphs,Notes,Advanced,Reading,35
+R050,Graphs Practice,Data Structures,Graphs,Practice,Advanced,Practice,45
+R051,CSS Basics Tutorial,HTML/CSS,CSS Basics,Video,Beginner,Visual,20
+R052,CSS Basics Practice,HTML/CSS,CSS Basics,Practice,Beginner,Practice,30
+R053,Responsive Web Design,HTML/CSS,Responsive Design,Video,Intermediate,Visual,35
+R054,Responsive Design Practice,HTML/CSS,Responsive Design,Practice,Advanced,Practice,40
+R055,Calculus Fundamentals,Mathematics,Calculus,Notes,Intermediate,Reading,35
+R056,Calculus Practice,Mathematics,Calculus,Practice,Advanced,Practice,45
+R057,Set Theory Basics,Mathematics,Set Theory,Video,Beginner,Visual,25
+R058,Set Theory Practice,Mathematics,Set Theory,Practice,Intermediate,Practice,35
+R059,Python Loops Practice,Python,Loops,Practice,Intermediate,Practice,35
+R060,Advanced SQL Queries,DBMS,SQL,Practice,Advanced,Practice,40
